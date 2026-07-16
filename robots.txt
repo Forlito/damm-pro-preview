@@ -1,0 +1,6 @@
+# DAMM Capital - https://dammcap.finance
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://dammcap.finance/sitemap.xml

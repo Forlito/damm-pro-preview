@@ -1,0 +1,53 @@
+# DAMM Capital
+
+> Institutional-grade decentralized finance.
+
+DAMM Capital is an on-chain asset management firm. We research, build and deploy quantitative strategies that execute autonomously through smart contracts — transparent, permissionless, and fully auditable.
+
+Our team combines deep technical expertise with rigorous risk management. We don't predict markets. We engineer systems that adapt to them.
+
+## Funds
+
+- **DAMMstable**: Market-neutral strategies for stablecoin yield with minimized volatility.
+- **DAMMeth**: Yield generation engineered for long-term ETH accumulation.
+- **DAMMbtc**: Capital conservation with systematic dividend flow. (Coming Soon)
+
+## DaaS (DeFi as a Service)
+
+- Smart contract integration and development of on-chain financial products with reduced costs.
+- Liquidity strategy design and Protocol-Owned Liquidity optimization.
+
+## Links
+
+- Website: https://dammcap.finance
+- App: https://app.dammcap.finance/funds
+- Docs: https://damm-capital.gitbook.io/damm-capital-docs
+- GitHub: https://github.com/DAMM-Cap
+- X/Twitter: https://x.com/DAMM_Capital
+- LinkedIn: https://www.linkedin.com/company/damm-capital/
+
+## Pages
+
+- [Home](https://dammcap.finance/)
+- [Research — The Quantitative Edge](https://dammcap.finance/research)
+- [DAMMstable Factsheet](https://dammcap.finance/funds/dammstable)
+- [DAMMeth Factsheet](https://dammcap.finance/funds/dammeth)
+- [Careers](https://dammcap.finance/careers)
+- [Contact](https://dammcap.finance/contact)
+- [Terms of Service](https://dammcap.finance/terms)
+- [Privacy Policy](https://dammcap.finance/privacy)
+
+## Research
+
+Public research, fund reports, and protocol deep dives ("The Quantitative Edge").
+
+<!-- research:begin -->
+- [¿Cómo repliqué Allaria usando el REIT? (ES)](https://dammcap.finance/research/replicando-allaria-con-el-reit) — Cómo construir un "mejor Allaria" sobre el propio REIT: préstamos en dólares contra inmuebles tokenizados, en mercados de crédito on-chain transparentes y accesibles 24/7. En español.
+- [Constant Depth Curve: mathematical proof](https://dammcap.finance/research/constant-depth-curve-proof) — Deriving the CDC bonding curve from first principles: the uniform-depth constraint reduces to a finite-difference equation with a log-affine solution, closed-form reserves, and an invariant.
+- [PNK/USD market maker: model & path-independence validation](https://dammcap.finance/research/pnk-bitfinex-cdc-model) — A non-custodial CEX market-making model built on a Constant-Depth Curve: path-independent by construction, one derived parameter, and an 11-month tape validation with 25,297 trades on Bitfinex.
+- [Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH](https://dammcap.finance/research/damm-pol-case-study) — DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making.
+- [Protocol Owned Liquidity KPIs](https://dammcap.finance/research/protocol-owned-liquidity-kpis) — A two-metric scorecard for POL programs and for comparing asset managers: Liquidity Depth Efficiency (the utility delivered to traders) and Capital Retention Ratio (the cost borne by the protocol).
+- [DAMMstable Ecosystem Impact](https://dammcap.finance/research/dammstable-ecosystem-impact) — 398 days of Uniswap v3 stablecoin market making on Arbitrum. A 3.28x fee multiplier, $526M of volume serviced on ~$221k of TVL, and 99.9% capital efficiency.
+- ["Risk-Adjusted": WTF it means](https://dammcap.finance/research/risk-adjusted-wtf-it-means) — Every vault claims risk-adjusted returns. Nominal APR is what you see; risk-adjusted APR is what you get after accounting for the rekt paths — and measuring risk is mostly subjective.
+- [WETH/USDC market making stress test](https://dammcap.finance/research/weth-usdc-pol-stress-test) — Backtesting DAMM's POL model on the WETH/USDC 0.05% Uniswap v3 pool through a drawdown regime: 11% drawdown vs 28% for the passive benchmark, with consistently deeper liquidity.
+<!-- research:end -->

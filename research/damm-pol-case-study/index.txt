@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[7415,["874","static/chunks/874-14985b4ef60481fe.js","177","static/chunks/app/layout-ee6c62d604c331af.js"],"default"]
+3:I[8694,["874","static/chunks/874-14985b4ef60481fe.js","177","static/chunks/app/layout-ee6c62d604c331af.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[6874,["874","static/chunks/874-14985b4ef60481fe.js","498","static/chunks/app/research/%5Bslug%5D/page-85f0d3c0d7319e42.js"],""]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/damm-pro-preview/_next/static/media/4b9bb515ce6d026f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/damm-pro-preview/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/damm-pro-preview/_next/static/media/bb3ef058b751a6ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/damm-pro-preview/_next/static/css/bf0ba0e2b61618ab.css","style"]
+:HL["/damm-pro-preview/_next/static/css/671238226ddfabd7.css","style"]
+0:{"P":null,"b":"jJsnDFoBe69xCNihzdrTt","p":"/damm-pro-preview","c":["","research","damm-pol-case-study",""],"i":false,"f":[[["",{"children":["research",{"children":[["slug","damm-pol-case-study","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/damm-pro-preview/_next/static/css/bf0ba0e2b61618ab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","prefix":"og: http://ogp.me/ns#","suppressHydrationWarning":true,"className":"__variable_6e8674 __variable_4378f0 __variable_ccf81c","children":["$","body",null,{"className":"antialiased","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('theme');if(t==='dark'){document.documentElement.dataset.theme='dark';}}catch(e){}})();"}}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"pt-24 min-h-[80vh] flex items-center justify-center","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"section-label","children":"404"}],["$","h1",null,{"className":"font-headline font-semibold text-fg text-4xl mt-2 mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-secondary mb-8","children":"The page you're looking for doesn't exist."}],["$","$L6",null,{"href":"/","className":"btn-border inline-flex items-center gap-2 px-6 py-3","children":"Back to Home"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"border-t border-border-default bg-background","children":["$","div",null,{"className":"max-w-[1280px] mx-auto px-6 py-16","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16","children":[["$","div",null,{"className":"lg:col-span-1 flex flex-col items-center md:items-start text-center md:text-left","children":[["$","div",null,{"className":"mb-4","children":[["$","img",null,{"src":"/damm-pro-preview/brand/logo-light-theme.svg","alt":"DAMM Capital","className":"logo-on-light h-9 w-auto"}],["$","img",null,{"src":"/damm-pro-preview/brand/logo-dark-theme.svg","alt":"DAMM Capital","className":"logo-on-dark h-9 w-auto"}]]}],["$","p",null,{"className":"text-muted text-sm leading-relaxed","children":"Quantitative digital asset management."}]]}],["$","div",null,{"className":"flex flex-col items-center md:items-start text-center md:text-left","children":[["$","h4",null,{"className":"font-mono text-[11px] uppercase tracking-[0.15em] text-fg mb-6","children":"Links"}],["$","nav",null,{"className":"flex flex-col gap-3 items-center md:items-start","children":[["$","a","https://damm-capital.gitbook.io/damm-capital-docs",{"href":"https://damm-capital.gitbook.io/damm-capital-docs","target":"_blank","rel":"noopener noreferrer","className":"footer-link weight-hover","children":"Docs"}],["$","$L6","/",{"href":"/","className":"footer-link weight-hover","children":"About"}],["$","$L6","/research",{"href":"/research","className":"footer-link weight-hover","children":"Research"}],["$","$L6","/careers",{"href":"/careers","className":"footer-link weight-hover","children":"Careers"}],["$","$L6","/contact",{"href":"/contact","className":"footer-link weight-hover","children":"Contact"}]]}]]}],["$","div",null,{"className":"flex flex-col items-center md:items-start text-center md:text-left","children":[["$","h4",null,{"className":"font-mono text-[11px] uppercase tracking-[0.15em] text-fg mb-6","children":"Legal"}],["$","nav",null,{"className":"flex flex-col gap-3 items-center md:items-start","children":[["$","$L6","/terms",{"href":"/terms","className":"footer-link weight-hover","children":"Terms of Service"}],["$","$L6","/privacy",{"href":"/privacy","className":"footer-link weight-hover","children":"Privacy Policy"}]]}]]}],["$","div",null,{"className":"flex flex-col items-center md:items-start text-center md:text-left","children":[["$","h4",null,{"className":"font-mono text-[11px] uppercase tracking-[0.15em] text-fg mb-6","children":"Social"}],["$","div",null,{"className":"flex items-center gap-5","children":[["$","a","https://x.com/DAMM_Capital",{"href":"https://x.com/DAMM_Capital","target":"_blank","rel":"noopener noreferrer","className":"social-link","aria-label":"Twitter/X","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"w-5 h-5","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}]}],["$","a","https://www.linkedin.com/company/damm-capital/",{"href":"https://www.linkedin.com/company/damm-capital/","target":"_blank","rel":"noopener noreferrer","className":"social-link","aria-label":"LinkedIn","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"w-5 h-5","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}]}],["$","a","https://github.com/DAMM-Cap",{"href":"https://github.com/DAMM-Cap","target":"_blank","rel":"noopener noreferrer","className":"social-link","aria-label":"GitHub","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"w-5 h-5","fill":"currentColor","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]]}]]}]]}],["$","div",null,{"className":"pt-8 border-t border-border-default flex flex-col md:flex-row items-center justify-center md:justify-between gap-4 text-center md:text-left","children":["$","span",null,{"className":"text-muted text-sm","children":"© 2026 DAMM Capital. All rights reserved."}]}]]}]}]]}]}]]}],{"children":["research",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","damm-pol-case-study","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],[["$","link","0",{"rel":"stylesheet","href":"/damm-pro-preview/_next/static/css/671238226ddfabd7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","yFbTqPhwnONyW4pmnpssu",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+15:T23a9,<p><strong>TL;DR — DAMM is 6.2x more capital efficient than Competitor</strong> on the WETH/[TOKEN] pool (Base, Aerodrome Slipstream, 0.3% fee tier) over a 28-day window.</p>
+<blockquote>
+<p><strong>Note:</strong> for this case study, one of the tokens in the pair has been redacted and replaced with &quot;TOKEN&quot;, and the competing market maker is unnamed, in honor of client confidentiality.</p>
+</blockquote>
+<p><strong>Capital efficiency in numbers:</strong></p>
+<ul>
+<li><strong>6.2x</strong> more fees per ETH deployed (DAMM vs Competitor)</li>
+<li><strong>0.28 ETH</strong> to capture 1% of pool fees (DAMM) vs <strong>1.73 ETH</strong> (Competitor)</li>
+<li>DAMM deploys only <strong>15% of total capital</strong> as active liquidity, keeping 85% in reserve — yet matches Competitor&#39;s fee APY on total capital with <strong>18x less total capital</strong></li>
+</ul>
+<p><strong>Why the ETH difference?</strong> DAMM deploys 1.19 ETH on average; Competitor deploys 141.35 ETH — 119x more. Despite this, DAMM captures 4.2% of all pool fees vs Competitor&#39;s 81.7%. Per ETH deployed, DAMM earns 6.2x more fees (38.6% vs 6.3% fee APY).</p>
+<p>The gap comes down to <strong>risk exposure</strong>: Competitor spreads capital across ~25,000 ticks with wide, static positions rebalanced every two weeks. DAMM concentrates into ~3,000 ticks centered on the current price, rebalanced daily. When [TOKEN] dropped 11.3% against WETH, Competitor&#39;s wide exposure meant higher absolute impermanent loss (−9.83 ETH vs −0.074 ETH), and their fees only recovered 6.9% of that loss. DAMM&#39;s fees recovered 47.6% of its IL — meaning DAMM&#39;s net cost of market making was −3.25% on deployed capital vs Competitor&#39;s −6.47%, <strong>making Competitor twice as expensive, with higher risk</strong>.</p>
+<p><strong>Strategy structure:</strong> DAMM runs 2 concentrated positions (3,000 ticks total, ~±1,500 from current price) rebalanced daily to track price. Competitor runs 2 wide positions (~25,000 ticks total) rebalanced roughly biweekly. DAMM&#39;s positions are symmetric and centered; Competitor&#39;s are asymmetric and static.</p>
+<p><strong>Pool:</strong> WETH/[TOKEN] Aerodrome Slipstream (Base) — 0.3% fee tier · <strong>Period:</strong> 28-day window · <strong>Swaps analyzed:</strong> 7,527</p>
+<h2>Results</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>DAMM</th>
+<th>Competitor</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Fee APY</strong></td>
+<td><strong>38.6%</strong></td>
+<td><strong>6.3%</strong></td>
+</tr>
+<tr>
+<td><strong>Capital efficiency ratio</strong></td>
+<td><strong>6.2x better</strong></td>
+<td>1.0x</td>
+</tr>
+<tr>
+<td><strong>Fees earned</strong></td>
+<td>0.035 ETH</td>
+<td>0.679 ETH</td>
+</tr>
+<tr>
+<td><strong>Pool fee share</strong></td>
+<td>4.2%</td>
+<td>81.7%</td>
+</tr>
+<tr>
+<td><strong>Avg capital deployed</strong></td>
+<td>1.19 ETH</td>
+<td>141.35 ETH</td>
+</tr>
+<tr>
+<td><strong>In-range rate</strong></td>
+<td>100.0%</td>
+<td>100.0%</td>
+</tr>
+<tr>
+<td><strong>Rebalances</strong></td>
+<td>27 (daily)</td>
+<td>2 (biweekly)</td>
+</tr>
+<tr>
+<td><strong>Positions per rebalance</strong></td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody></table>
+<p>DAMM earns <strong>6.2x more fees per ETH deployed</strong> than Competitor. With 1/119th of the capital, DAMM captures 4.2% of all pool fees.</p>
+<h2>Fee APY on total capital</h2>
+<p>DAMM&#39;s bot deploys only a fraction of total capital — 15%. Competitor deploys 100%.</p>
+<p>At 15% exposed capital, both LPs earn approximately the same fee APY on total capital, but DAMM does so with materially lower risk. With only a small portion of capital deployed, DAMM is far less vulnerable to adverse market moves. Keeping 85% of capital in reserve also gives DAMM greater flexibility to rebalance and adapt when market conditions shift.</p>
+<h2>Price coverage</h2>
+<p>DAMM captured <strong>100% of swaps</strong> during this 28-day window. Every swap, every day. Zero misses.</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Days at 100% coverage</td>
+<td>28 / 28</td>
+</tr>
+<tr>
+<td>Out-of-range swaps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>DAMM position width</td>
+<td>3,000 ticks (50 tick spacings)</td>
+</tr>
+</tbody></table>
+<h2>Strategy comparison</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>DAMM</th>
+<th>Competitor</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Architecture</strong></td>
+<td>2 concentrated positions centered on price</td>
+<td>2 wide positions (~25,000 ticks), asymmetric</td>
+</tr>
+<tr>
+<td><strong>Width</strong></td>
+<td>3,000 ticks total</td>
+<td>~25,000 ticks total</td>
+</tr>
+<tr>
+<td><strong>Rebalance</strong></td>
+<td>Daily</td>
+<td>Biweekly, 2 rebalances in 28 days</td>
+</tr>
+<tr>
+<td><strong>Tick tracking</strong></td>
+<td>Follows price within ±1,500 ticks daily</td>
+<td>Static wide range, rarely adjusted</td>
+</tr>
+</tbody></table>
+<p><em>Note:</em> Competitor recently abandoned a previous 5-position barbell strategy (full-range + narrow layers) in favor of 2 wide positions rebalanced infrequently. This explains the low 6.3% fee APY — their capital is spread across 25,000 ticks while price moves within a ~2,000-tick corridor.</p>
+<h2>Cost of market making</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>DAMM</th>
+<th>Competitor</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Capital for 1% pool fee share</strong></td>
+<td>0.28 ETH</td>
+<td>1.73 ETH</td>
+</tr>
+<tr>
+<td><strong>Capital for 10% pool fee share</strong></td>
+<td>2.83 ETH</td>
+<td>17.3 ETH</td>
+</tr>
+<tr>
+<td><strong>Capital to match Competitor&#39;s 81.7% share</strong></td>
+<td>23.2 ETH (deployed)</td>
+<td>141.35 ETH</td>
+</tr>
+</tbody></table>
+<p>DAMM achieves the same market depth per dollar at <strong>6.2x lower cost</strong> on deployed capital.</p>
+<h2>Net P&amp;L: fees vs impermanent loss</h2>
+<p>[TOKEN] depreciated <strong>11.3% vs WETH</strong> during this 28-day window. Both LPs lost money. The question is how much.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Competitor</th>
+<th>DAMM</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Avg capital deployed (risked)</strong></td>
+<td>141.35 ETH (100% of total)</td>
+<td>1.19 ETH (15% of total)</td>
+</tr>
+<tr>
+<td><strong>Impermanent loss</strong></td>
+<td>−9.83 ETH (−6.95% of deployed)</td>
+<td>−0.074 ETH (−6.21% of deployed)</td>
+</tr>
+<tr>
+<td><strong>Fees earned</strong></td>
+<td>+0.68 ETH (+0.48%)</td>
+<td>+0.035 ETH (+2.96%)</td>
+</tr>
+<tr>
+<td><strong>Net P&amp;L</strong></td>
+<td><strong>−9.15 ETH (−6.47%)</strong></td>
+<td><strong>−0.039 ETH (−3.25%)</strong></td>
+</tr>
+<tr>
+<td><strong>Net APY (annualized)</strong></td>
+<td><strong>−84.4%</strong></td>
+<td><strong>−42.4%</strong></td>
+</tr>
+<tr>
+<td><strong>Fee recovery ratio</strong></td>
+<td>Fees covered 6.9% of IL</td>
+<td>Fees covered 47.6% of IL</td>
+</tr>
+</tbody></table>
+<h2>Conclusion</h2>
+<p>In a month where [TOKEN] fell 11.3% against WETH, DAMM&#39;s net cost of market making was <strong>−3.25% on deployed capital</strong>. Competitor&#39;s was <strong>−6.47%</strong> — twice as expensive.</p>
+<p>Three facts drive this:</p>
+<ol>
+<li><strong>DAMM&#39;s fees offset half its IL.</strong> Fee income covered 47.6% of impermanent loss, vs only 6.9% for Competitor. Concentrated liquidity earns proportionally more fees per unit of capital exposed.</li>
+<li><strong>DAMM&#39;s IL was lower as a percentage.</strong> Tighter positions with daily rebalancing produced 6.21% IL vs Competitor&#39;s 6.95% — the active tracking limits exposure during sustained directional moves.</li>
+<li><strong>DAMM does this with 119x less capital.</strong> The absolute cost of DAMM&#39;s market making was 0.039 ETH. Competitor spent 9.15 ETH to provide liquidity in the same pool, in the same month, with a worse net outcome per dollar.</li>
+</ol>
+<p>For a token issuer comparing MM providers: DAMM delivers the same depth per dollar at a fraction of the cost, loses less during adverse price moves, and recovers more of those losses through fees.</p>
+<h2>Methodology</h2>
+<ul>
+<li><strong>Fee attribution:</strong> For each of 7,527 swaps, we reconstruct both LPs&#39; active liquidity at the swap tick from on-chain mint/burn events, then compute pro-rata fee share as <code>LP_liquidity / pool_total_liquidity</code>.</li>
+<li><strong>Net P&amp;L:</strong> Position values computed at window boundaries using Uniswap V3 liquidity math (<code>getAmount0</code>/<code>getAmount1</code>), validated against on-chain mint amounts (&lt;2% error). IL = (end_value − start_value) − net_deposits. Net P&amp;L = IL + fees.</li>
+<li><strong>Position attribution:</strong> NFPM Transfer event logs via <code>eth_getLogs</code> RPC, matching tx_hashes against pool mint/burn events.</li>
+<li><strong>Capital:</strong> Average WETH + [TOKEN] deployed per rebalance, converted at median [TOKEN]/WETH price.</li>
+<li><strong>APY:</strong> <code>(metric / capital_ETH) × (365 / 28) × 100</code></li>
+</ul>
+<p><em>Analysis: 7,527 swaps, 28-day window, tick-level pro-rata fee attribution and position valuation from on-chain data.</em></p>
+7:["$","main",null,{"className":"min-h-screen pb-24","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH\",\"description\":\"DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making.\",\"datePublished\":\"2026-04-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"Pablo Baiocchi\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"DAMM Capital\",\"url\":\"https://dammcap.finance\"},\"mainEntityOfPage\":\"https://dammcap.finance/research/damm-pol-case-study\"}"}}],["$","section",null,{"className":"pt-28 pb-10 border-b border-border-default","children":["$","div",null,{"className":"max-w-[760px] mx-auto px-6","children":[["$","p",null,{"className":"section-label","children":["Case Study"," · ","April 16, 2026"]}],["$","h1",null,{"className":"section-title mt-5","children":"Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH"}],["$","p",null,{"className":"text-secondary mt-5 text-[15px] leading-relaxed","children":"DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making."}],["$","p",null,{"className":"mt-5 font-mono text-xs text-fg-muted","children":["By ","Pablo Baiocchi",[" · ","pol · market-making · aerodrome · base · capital-efficiency"]]}]]}]}],["$","section",null,{"className":"py-10 sm:py-14","children":["$","div",null,{"className":"max-w-[760px] mx-auto px-6","children":["$","article",null,{"className":"prose-research","dangerouslySetInnerHTML":{"__html":"$15"}}]}]}],["$","div",null,{"className":"max-w-[760px] mx-auto px-6 pt-8 border-t border-border-default","children":["$","div",null,{"className":"flex flex-wrap items-center justify-between gap-4 font-mono text-sm","children":[["$","$L6",null,{"href":"/research","className":"text-accent transition-colors hover:text-fg","children":"← All research"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-6 gap-y-2","children":[["$","$L6",null,{"href":"/research/pnk-bitfinex-cdc-model","className":"text-fg-muted transition-colors hover:text-fg","children":["← ","PNK/USD market maker: model & path-independence validation"]}],["$","$L6",null,{"href":"/research/protocol-owned-liquidity-kpis","className":"text-fg-muted transition-colors hover:text-fg","children":["Protocol Owned Liquidity KPIs"," →"]}]]}]]}]}]]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#ffffff"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#000000"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH | The Quantitative Edge | DAMM Capital"}],["$","meta","1",{"name":"description","content":"DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making."}],["$","link","2",{"rel":"canonical","href":"https://dammcap.finance/research/damm-pol-case-study/"}],["$","meta","3",{"property":"og:title","content":"Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH"}],["$","meta","4",{"property":"og:description","content":"DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making."}],["$","meta","5",{"property":"og:url","content":"https://dammcap.finance/research/damm-pol-case-study/"}],["$","meta","6",{"property":"og:site_name","content":"DAMM Capital"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image","content":"https://dammcap.finance/damm-pro-preview/research/damm-pol-case-study/opengraph-image?a92ca1465d3f9eaa"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-04-16"}],["$","meta","13",{"property":"article:author","content":"Pablo Baiocchi"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Case study: DAMM vs a sophisticated competitor on [TOKEN]/WETH"}],["$","meta","16",{"name":"twitter:description","content":"DAMM is 6.2x more capital efficient than a competitor MM on the same Base Slipstream pool over 28 days — matching depth per dollar with 18x less capital and half the net cost of market making."}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image","content":"https://dammcap.finance/damm-pro-preview/research/damm-pol-case-study/twitter-image?f2d768e02862bf66"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/favicon-dark.svg","type":"image/svg+xml","media":"(prefers-color-scheme: dark)"}],["$","link","22",{"rel":"icon","href":"/favicon-light.svg","type":"image/svg+xml","media":"(prefers-color-scheme: light)"}],["$","link","23",{"rel":"icon","href":"/favicon-light.svg","type":"image/svg+xml"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
